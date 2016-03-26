@@ -1,6 +1,10 @@
 # hello-world
 Tutorial repository
 
+French translation :
+  * Bonjour le Monde ! 
+  * Salut à tout le monde !
+
 ## First title
 
 Some stuff here
