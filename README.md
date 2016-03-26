@@ -33,7 +33,11 @@ Numbered list
 
 Array
 
-|  First column  |   Second column |
------------------|-----------------|
-| Yeah           | Arrays          |
-| That's great   | NA              |
+|  First column  |   Second column |   Third    |
+-----------------|-----------------|------------|
+| Yeah           | Arrays          | are cool ! |
+| That's great   | NA              | Or not     |
+| Yeah           | Arrays          | are cool ! |
+| That's great   | NA              | Or not     |
+| Yeah           | Arrays          | are cool ! |
+| That's great   | NA              | Or not     |
