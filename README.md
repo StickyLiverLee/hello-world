@@ -14,7 +14,7 @@ Some other stuff here
     * Element 2
     * Element 3
 
-  # Numbered list
-    # Number A
-    # Number B
-    # Number C
+  Numbered list
+    1. Number A
+    2. Number B
+    3. Number C
