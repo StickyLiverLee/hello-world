@@ -30,3 +30,10 @@ Numbered list
       1. Test
       2. Test
       4. Test
+
+Array
+
+|  First column  |   Second column |
+-----------------|-----------------|
+| Yeah           | Arrays          |
+| That's great   | NA              |
